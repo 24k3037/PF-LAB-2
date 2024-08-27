@@ -9,3 +9,4 @@ Programming Fundamnetals FALL 2024
 *This text is italics*\
 ***This text is both bold and italics***\
 ~~OOPS I made an error~~
+[ ] Add delight to the experience when all tasks are complete :tada:
